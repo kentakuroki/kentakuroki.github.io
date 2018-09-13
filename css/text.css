@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 文字装飾 */
+.uchikeshi {
+	text-decoration: line-through;
+}
+.underline {
+	text-decoration:underline;
+}
+.red {color: #FF0000;
+}
+.bold{
+	font-style:normal;
+	font-weight:bold;
+}
+
+/* 配置 */
+.text_r{
+	text-align:right;
+}
+.text_c{
+	text-align:center;
+}
+
+/* font size */
+.f85 {font-size:85%;}
+.f90 {font-size:90%;}
+.f95 {font-size:95%;}
+.f100 {font-size:100%;}
+.f105 {font-size:105%;}
+.f110 {font-size:110%;}
+.f115 {font-size:115%;}
+.f120 {font-size:120%;}
